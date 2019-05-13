@@ -1,0 +1,164 @@
+{
+  "artefacts-of-power": {
+    "weapons": [
+      {
+        "title": "Strife-ender",
+        "description": "Pick one of the bearer’s melee weapons. Add 1 to the Attacks characteristic of that weapon. Add 2 instead while all of that weapon’s attacks target a CHAOS unit."
+      },
+      {
+        "title": "Blade of Heroes",
+        "description": "Pick one of the bearer’s melee weapons. You can re-roll failed hit rolls for attacks made with that weapon that target a HERO or MONSTER."
+      },
+      {
+        "title": "Hammer of Might",
+        "description": "Pick one of the bearer’s melee weapons. If the unmodified wound roll for an attack made with that weapon is 6, double the Damage characteristic of that weapon for that attack."
+      },
+      {
+        "title": "Fang of Dracothion",
+        "description": "Pick one of the bearer’s melee weapons. You can re-roll wound rolls of 1 for attacks made with that weapon."
+      },
+      {
+        "title": "Obsidian Blade",
+        "description": "Pick one of the bearer’s melee weapons. Improve the Rend characteristic of that weapon by 1."
+      },
+      {
+        "title": "Gift of the Six Smiths",
+        "description": "Pick one of the bearer’s melee weapons. Once per turn, you can re-roll one failed hit roll or one failed wound roll for attacks made with that weapon."
+      }
+    ],
+    "armour": [
+      {
+        "title": "Armour of Destiny",
+        "description": "Roll a dice each time you allocate a wound or mortal wound to the bearer. On a 6+, that wound or mortal wound is negated."
+      },
+      {
+        "title": "Armour of Silvered Sigmarite",
+        "description": "Subtract 1 from hit rolls for attacks made with melee weapons that target the bearer."
+      },
+      {
+        "title": "Drakescale Armour",
+        "description": "You can re-roll failed save rolls for attacks that target the bearer that have a Damage characteristic greater than 1 (i.e. 2, D3 etc)."
+      },
+      {
+        "title": "Mirrorshield",
+        "description": "Subtract 2 from hit rolls for attacks made with missile weapons that target the bearer."
+      },
+      {
+        "title": "Spellshield",
+        "description": "The bearer can attempt to unbind 1 spell in each enemy hero phase in the same manner as a WIZARD. If the bearer is already a WIZARD, they can attempt to unbind 1 extra spell in each enemy hero phase."
+      },
+      {
+        "title": "Featherfoe Torc",
+        "description": "Re-roll successful hit rolls for attacks that target the bearer made by models that can fly."
+      }
+    ],
+    "talismans": [
+      {
+        "title": "Talisman of Endurance",
+        "description": "Add 1 to the bearer’s Wounds characteristic."
+      },
+      {
+        "title": "Obsidian Amulet",
+        "description": "Each time the bearer is affected by a spell or endless spell, roll a dice. On a 4+ ignore the effects of that spell on the bearer."
+      },
+      {
+        "title": "Luckstone",
+        "description": "Once per battle, you can change one hit, wound or save roll, or one roll that randomly determines a Damage characteristic, to the roll of your choice. The roll must be for an attack made by the bearer, or a save roll for an attack that targets the bearer."
+      },
+      {
+        "title": "Seed of Rebirth",
+        "description": "In your hero phase, roll a dice for the bearer. On a 4+ heal 1 wound allocated to the bearer"
+      },
+      {
+        "title": "Sigmarite Pendant",
+        "description": "If the bearer is slain by wounds or mortal wounds inflicted by an enemy unit, roll a dice. On a 4+ that enemy unit suffers D6 mortal wounds."
+      },
+      {
+        "title": "Quicksilver Draught",
+        "description": "Once per battle, at the start of the combat phase, the bearer can drink this potion. If they do so, the bearer fights at the start of that combat phase, before the players start picking any other units to fight in that combat phase."
+      }
+    ],
+    "standards": [
+      {
+        "title": "Hurricane Standard",
+        "description": "You can re-roll run and charge rolls for friendly STORMCAST ETERNAL units wholly within 12\" of the bearer at the start of the phase in which the roll is made.",
+        "allowedclasses": [ "STORMCAST-ETERNAL-HERO-TOTEM" ]
+      },
+      {
+        "title": "Lichebone Standard",
+        "description": "At the start of your hero phase, you can heal 1 wound allocated to each friendly STORMCAST ETERNAL unit wholly within 9\" of the bearer.",
+        "allowedclasses": [ "STORMCAST-ETERNAL-HERO-TOTEM" ]
+      },
+      {
+        "title": "Pennant of Sigmaron",
+        "description": "If a friendly STORMCAST ETERNAL unit wholly within 24\" of the bearer fails a battleshock test, roll a dice.On a 2 + only one model flees from that unit.",
+        "allowedclasses": [ "STORMCAST-ETERNAL-HERO-TOTEM" ]
+      }
+    ],
+    "mystic-lights": [
+      {
+        "title": "Shriving Light",
+        "description": "Subtract 1 from the Bravery characteristic of enemy units while they are within 6\" of the bearer.Subtract 2 from the unit’ s Bravery characteristic instead if it has the CHAOS keyword.",
+        "allowedclasses": [ "LORD-CASTELLANT", "LORD-VERITANT", "KNIGHT-AZYROS" ]
+      },
+      {
+        "title": "Fury Brand",
+        "description": "In your hero phase, you can pick 1 melee weapon used by a STORMCAST ETERNAL HERO within 6\" of the bearer.Add 1 to the Attacks characteristic of that melee weapon until your next hero phase.",
+        "allowedclasses": [ "LORD-CASTELLANT", "LORD-VERITANT", "KNIGHT-AZYROS" ]
+      },
+      {
+        "title": "Lantern of the Tempest",
+        "description": "Re-roll unmodified hit rolls of 6 for attacks made with missile weapons that target friendly STORMCAST ETERNAL units wholly within 12\" of the bearer.",
+        "allowedclasses": [ "LORD-CASTELLANT", "LORD-VERITANT", "KNIGHT-AZYROS" ]
+      }
+    ],
+    "celestial-staves": [
+      {
+        "title": "Staff of Focus",
+        "description": "Once per battle, in your hero phase, the bearer can use this artefact. If they do so, add 1 to casting rolls for the bearer until the end of that phase. In addition, if the bearer casts a spell that inflicts any mortal wounds during that phase, add 1 to the number of mortal wounds inflicted on each unit that the spell affects.",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      },
+      {
+        "title": "Mindlock Staf",
+        "description": "Once per battle, at the start of the enemy hero phase, you can pick an enemy WIZARD with 12\" of the bearer.That WIZARD cannot cast any spells that phase.",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      },
+      {
+        "title": "Staff of Azyr",
+        "description": "In your hero phase, if the bearer successfully casts any spells that are not unbound, subtract 1 from hit rolls for attacks that target the bearer until your next hero phase.",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      }
+    ],
+    "scrolls-of-power": [
+      {
+        "title": "Scroll of Unravelling",
+        "description": "Once per battle, at the start of the enemy hero phase, the bearer can use this artefact. If they do so, in that hero phase, enemy casting rolls that are equal to the spell’s casting value are unsuccessful and the caster suffers D3 mortal wounds",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      },
+      {
+        "title": "Scroll of Condemnation",
+        "description": "Once per battle, in your hero phase, the bearer can use this artefact. If they do so, pick an enemy HERO within 12\" of the bearer.Until the end of that turn, add 1 to wound rolls for attacks made by friendly STORMCAST ETERNALS that target that model.",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      },
+      {
+        "title": "Storm Scroll",
+        "description": "Once per battle, in your hero phase, the bearer can use this artefact. If they do so, pick up to 6 different enemy units on the battlefield, and give each of them a different number from 1 to 6. Then roll a dice. If there is a unit whose number is the same as the roll, that unit suffers D6 mortal wounds.",
+        "allowedclasses": [ "LORD-ARCANUM", "KNIGHT-INCANTOR" ]
+      }
+    ]
+  },
+  "battle-traits": [
+    {
+      "title": "Scions of the storm",
+      "description": "Instead of setting up a STORMCAST ETERNAL unit on the battlefield, you can place it to one side and say that it is set up in the Celestial Realm as a reserve unit. You can set up one reserve unit in the Celestial Realm for each unit you have set up on the battlefield. At the end of your movement phase, you can set up one or more of the reserve units in the Celestial Realm on the battlefield, more than 9\" from any enemy units. Any reserve units in the Celestial Realm that are not set up on the battlefield before the start of the fourth battle round are slain."
+    },
+    {
+      "title": "Shock and Awe",
+      "description": "Subtract 1 from hit rolls for attacks that target friendly STORMCAST ETERNAL units that were set up on the battlefield during the same turn."
+    },
+    {
+      "title": "Stormhosts",
+      "description": "If your army is a Stormcast Eternals army, you can give it a Stormhost keyword. All STORMCAST ETERNAL units in your army gain that keyword. If a model already has a Stormhost keyword, it cannot gain another one, but this does not prevent other units in your army from having a different Stormhost keyword."
+    }
+  ]
+}

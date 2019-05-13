@@ -1,0 +1,11 @@
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\resources\AllegianceAbilities\commandtraits-stormcast-12018.json
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\resources\AllegianceAbilities\battletraits-stormcast-12018.json
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\PeNArmyScketcher.AgeOfSigmar.dll
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\PeNArmyScketcher.AgeOfSigmar.pdb
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\PeNArmyScketcher.Infrastructure.dll
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\bin\Debug\PeNArmyScketcher.Infrastructure.pdb
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\obj\Debug\PeNArmyScketcher.AgeOfSigmar.csprojAssemblyReference.cache
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\obj\Debug\PeNArmyScketcher.AgeOfSigmar.csproj.CoreCompileInputs.cache
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\obj\Debug\PeNArmyScketcher.AgeOfSigmar.csproj.CopyComplete
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\obj\Debug\PeNArmyScketcher.AgeOfSigmar.dll
+C:\lab\pen-army-scketcher\src\PeNArmyScketcher.AgeOfSigmar\obj\Debug\PeNArmyScketcher.AgeOfSigmar.pdb

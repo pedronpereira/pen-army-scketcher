@@ -1,0 +1,16 @@
+{
+  "battle-traits": [
+    {
+      "title": "Scions of the storm",
+      "description": "Instead of setting up a STORMCAST ETERNAL unit on the battlefield, you can place it to one side and say that it is set up in the Celestial Realm as a reserve unit. You can set up one reserve unit in the Celestial Realm for each unit you have set up on the battlefield. At the end of your movement phase, you can set up one or more of the reserve units in the Celestial Realm on the battlefield, more than 9\" from any enemy units. Any reserve units in the Celestial Realm that are not set up on the battlefield before the start of the fourth battle round are slain."
+    },
+    {
+      "title": "Shock and Awe",
+      "description": "Subtract 1 from hit rolls for attacks that target friendly STORMCAST ETERNAL units that were set up on the battlefield during the same turn."
+    },
+    {
+      "title": "Stormhosts",
+      "description": "If your army is a Stormcast Eternals army, you can give it a Stormhost keyword. All STORMCAST ETERNAL units in your army gain that keyword. If a model already has a Stormhost keyword, it cannot gain another one, but this does not prevent other units in your army from having a different Stormhost keyword."
+    }
+  ]
+}
