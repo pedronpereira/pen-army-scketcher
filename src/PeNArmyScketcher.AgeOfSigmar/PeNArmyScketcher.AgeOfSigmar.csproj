@@ -73,6 +73,8 @@
     <None Include="resources\AllegianceAbilities\battle-traits-stormcast-v1-2018.json" />
     <None Include="resources\AllegianceAbilities\command-traits-blades-of-khorne-v2-2019.json" />
     <None Include="resources\AllegianceAbilities\command-traits-stormcast-v1-2018.json" />
+    <None Include="resources\AllegianceAbilities\mount-traits-v1-2018.json" />
+    <None Include="resources\AllegianceAbilities\stormhosts-v1-2018.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

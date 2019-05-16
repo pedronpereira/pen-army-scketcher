@@ -1,0 +1,74 @@
+{
+	"Hammers Of Sigmar": [
+		{
+			"title": "First to be Forged",
+			"description": "Add 1 to the Bravery characteristic of friendly HAMMERS OF SIGMAR units",
+			"category": "stormhost"
+		},
+		{
+			"title": "Soul of the Stormhost",
+			"description": "You can use this command ability when a friendly HAMMERS OF SIGMAR REDEEMER unit is destroyed. If you do so, roll a dice. On a 5+ a new unit identical to the one that was destroyed is added to your army. Set up the new unit anywhere on the battlefield, more than 9\" from any enemy models.",
+			"category": "command ability"
+		},
+		{
+			"title": "We cannot fail",
+			"description": "Roll a dice each time you allocate a wound or mortal wound to a friendly HAMMERS OF SIGMAR unit wholly within 9\" of this general. On a 6+, that wound or mortal wound is negated.",
+			"category": "command trait",
+			"allowedclasses": "general"
+		},
+		{
+			"title": "God-forged blade",
+			"description": "Pick one of the bearer’s melee weapons. If the unmodified hit roll for an attack made with the Godforged Blade is 6, add 1 to the Damage characteristic of that attack.",
+			"category": "weapon",
+			"allowedclasses": "hero"
+		}
+	],
+	"Hallowed Knights": [
+		{
+			"title": "Only the faithful",
+			"description": "If a friendly HALLOWED KNIGHTS unit is affected by a spell or endless spell, roll a dice. On a 6+ ignore the effects of that spell on that unit.",
+			"category": "stormhost"
+		},
+		{
+			"title": "Holy crusaders",
+			"description": "You can use this command ability at the start of your hero phase. If you do so, pick a friendly HALLOWED KNIGHTS unit wholly within 9\" of a friendly HALLOWED KNIGHTS HERO, or wholly within 18\" of a friendly HALLOWED KNIGHTS HERO that is a general. Add 1 to run rolls and charge rolls for that unit until your next hero phase. In addition, until your next hero phase, that unit can run and still charge later in the same turn.",
+			"category": "command ability"
+		},
+		{
+			"title": "Martyr's strength",
+			"description": "Roll a dice if this general is slain in the combat phase. On a 2+ this general can make a pile-in move and then attack with all of the melee weapons it is armed with, before it is removed from play.",
+			"category": "command trait",
+			"allowedclasses": "general"
+		},
+		{
+			"title": "Parchement of purity",
+			"description": "In your hero phase, heal 1 wound allocated to the bearer.",
+			"category": "weapon",
+			"allowedclasses": "hero"
+		}
+	],
+	"Celestial Vindicators": [
+		{
+			"title": "Driven by vengence",
+			"description": "You can re-roll hit rolls of 1 for attacks made by friendly CELESTIAL VINDICATORS units if they made a charge move in the same turn.",
+			"category": "stormhost"
+		},
+		{
+			"title": "Righteous Hatred",
+			"description": "You can use this command ability the start of the combat phase. If you do so, you pick a friendly CELESTIAL VINDICATORS unit wholly within 9\" of a friendly CELESTIAL VINDICATORS HERO, or wholly within 18\" of a friendly CELESTIAL VINDICATORS HERO that is a general. Add 1 to the Attacks characteristic of that unit’s melee weapons until the end of that phase.",
+			"category": "command ability"
+		},
+		{
+			"title": "Single-minded Fury",
+			"description": "Each time you roll an unmodified hit roll of 6 for this general, add 1 to the Damage characteristic of that attack..",
+			"category": "command trait",
+			"allowedclasses": "general"
+		},
+		{
+			"title": "Stormrage blade",
+			"description": "Pick one of the bearer’s melee weapons. At the start of the combat phase, you can add 2 to the Attacks characteristic of this weapon until the end of that phase. If you do so, subtract 1 from save rolls for attacks that target the bearer until the end of that phase.",
+			"category": "weapon",
+			"allowedclasses": "hero"
+		}
+	]
+}
