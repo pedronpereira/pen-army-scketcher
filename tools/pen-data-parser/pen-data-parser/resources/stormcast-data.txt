@@ -1,0 +1,51 @@
+STORMCAST ETERNALS UNIT SIZE POINTS BATTLEFIELD ROLE NOTES
+- Celestar Ballista 1 1 100 Artillery 
+- Liberators 5 30 100/520 Battleline 
+- Astreia Solbright 1 1 220 Leader Unique 
+- Aventis Firestrike, Magister of Hammerhal 1 1 360 Leader Unique
+- Celestant-Prime, Hammer of Sigmar 1 1 340 Leader Unique
+- Gavriel Sureheart 1 1 100 Leader Unique 
+- Knight-Azyros 1 1 100 Leader 
+- Knight-Heraldor 1 1 100 Leader 
+- Knight-Incantor 1 1 140 Leader 
+- Knight-Questor 1 1 100 Leader 
+- Knight-Venator 1 1 120 Leader 
+- Knight-Vexillor 1 1 120 Leader 
+- Knight-Zephyros 1 1 100 Leader 
+- Lord-Aquilor 1 1 200 Leader 
+- Lord-Arcanum 1 1 180 Leader 
+- Lord-Arcanum on Tauralon 1 1 340 Leader 
+- Lord-Arcanum on Celestial Dracoline 1 1 240 Leader 
+- Lord-Arcanum on Gryph-charger 1 1 240 Leader
+- Lord-Castellant 1 1 100 Leader
+- Lord-Celestant 1 1 100 Leader
+- Lord-Celestant on Dracoth 1 1 220 Leader
+- Lord-Exorcist 1 1 140 Leader
+- Lord-Ordinator 1 1 140 Leader
+- Lord-Relictor 1 1 100 Leader
+- Lord-Veritant 1 1 120 Leader
+- Neave Blacktalon 1 1 120 Leader Unique 
+- Vandus Hammerhand 1 1 280 Leader Unique 
+- Drakesworn Templar 1 1 460 Leader, Behemoth 
+- Lord-Celestant on Stardrake 1 1 560 Leader, Behemoth 
+- Aetherwings 3 12 50 
+- Castigators 3 18 80 
+- Concussors 2 12 260 
+- Decimators 5 20 200 
+- Desolators 2 12 220 
+- Evocators 5 20 200 
+- Evocators on Dracolines 3 12 300 
+- The Farstriders 3 3 100 Unique 
+- Fulminators 2 12 240 
+- Gryph-hounds 6 18 140
+- Judicators 5 20 160 Battleline in Stormcast Eternal army 
+- Prosecutors 3 12 100 
+- Protectors 5 20 200
+- Retributors 5 20 220
+- Sequitors 5 20 120/400 Battleline in Stormcast Eternal army if general is a LORD-ARCANUM
+- Steelheart’s Champions 3 3 100 Unique 
+- Tempestors 2 12 220 
+- Vanguard-Hunters 5 15 120 Battleline in Stormcast Eternal army if general is a Lord-Aquilor 
+- Vanguard-Palladors 3 12 200 
+- Vanguard-Raptors with Hurricane Crossbows 3 12 140 
+- Vanguard-Raptors with Longstrike Crossbows 3 12 180

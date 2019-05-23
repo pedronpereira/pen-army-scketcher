@@ -23,9 +23,8 @@
                 <Button Content="About" Style="{StaticResource menuButtonStyle}"/>
             </StackPanel>
 
-            <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight" HorizontalAlignment="Stretch" DockPanel.Dock="Right">
-                <Button Content="New Army" Style="{StaticResource menuButtonStyle}"/>
-                <Button Content="Save Army" Style="{StaticResource menuButtonStyle}"/>
+            <StackPanel Orientation="Horizontal" FlowDirection="LeftToRight" HorizontalAlignment="Stretch" DockPanel.Dock="Right" >
+                <ItemsControl ItemsSource="{Binding NavigationButtons}"/>
             </StackPanel>
         </DockPanel>
     </Grid>

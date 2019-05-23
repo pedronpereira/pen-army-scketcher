@@ -1,6 +1,0 @@
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\bin\Debug\PeNArmyScketcher.Infrastructure.dll
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\bin\Debug\PeNArmyScketcher.Infrastructure.pdb
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\obj\Debug\PeNArmyScketcher.Infrastructure.csprojAssemblyReference.cache
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\obj\Debug\PeNArmyScketcher.Infrastructure.csproj.CoreCompileInputs.cache
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\obj\Debug\PeNArmyScketcher.Infrastructure.dll
-C:\lab\pen-army-scketcher\src\PeNArmyScketcher.Infrastructure\obj\Debug\PeNArmyScketcher.Infrastructure.pdb

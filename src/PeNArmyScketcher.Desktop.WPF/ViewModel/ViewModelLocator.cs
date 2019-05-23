@@ -15,6 +15,7 @@
 using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Ioc;
 using CommonServiceLocator;
+using GalaSoft.MvvmLight.Messaging;
 
 namespace PeNArmyScketcher.Desktop.WPF.ViewModel
 {

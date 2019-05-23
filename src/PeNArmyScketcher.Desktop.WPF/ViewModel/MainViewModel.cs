@@ -1,4 +1,6 @@
+using System;
 using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Messaging;
 
 namespace PeNArmyScketcher.Desktop.WPF.ViewModel
 {
@@ -29,6 +31,8 @@ namespace PeNArmyScketcher.Desktop.WPF.ViewModel
             _forcesExplorerViewModel = new ForcesExplorerViewModel();
             _armyViewViewModel = new ArmyViewViewModel();
 
+            //MessengerInstance.Register<NotificationMessageAction>("MainViewModel", message => ProcessMessage(message), true);
+
             if (IsInDesignMode)
             {
                 Title = "Pen Army Scketcher (Design Mode)";
@@ -40,6 +44,25 @@ namespace PeNArmyScketcher.Desktop.WPF.ViewModel
 
             _forcesExplorerViewModel.Title = "The Forces Explorer";
             _armyViewViewModel.Title = "The Army View";
+        }
+
+        private void ProcessMessage(NotificationMessageAction message)
+        {
+            switch (message.Notification)
+            {
+                case "LoadArmy": //TODO: show dialog to load army
+                    break;
+                case "CreateNewArmy":
+                    CreateNewArmy();
+                    break;
+                default:
+                    break;
+            }
+        }
+
+        private void CreateNewArmy()
+        {
+            throw new NotImplementedException();
         }
 
         public string Title { get; set; }
