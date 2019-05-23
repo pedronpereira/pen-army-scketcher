@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeNArmyScketcher.Infrastruc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeNArmyScketcher.AgeOfSigmar", "..\PeNArmyScketcher.AgeOfSigmar\PeNArmyScketcher.AgeOfSigmar.csproj", "{F4D1AEAE-89CA-4364-ACD9-96669D102B4B}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "pen-data-parser", "..\..\tools\pen-data-parser\pen-data-parser\pen-data-parser.csproj", "{DEDF246D-D1DD-45FF-BB61-B688D5D5162B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F4D1AEAE-89CA-4364-ACD9-96669D102B4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4D1AEAE-89CA-4364-ACD9-96669D102B4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4D1AEAE-89CA-4364-ACD9-96669D102B4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDF246D-D1DD-45FF-BB61-B688D5D5162B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDF246D-D1DD-45FF-BB61-B688D5D5162B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDF246D-D1DD-45FF-BB61-B688D5D5162B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDF246D-D1DD-45FF-BB61-B688D5D5162B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
