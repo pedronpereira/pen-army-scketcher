@@ -21,6 +21,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -49,17 +50,20 @@
     <Compile Include="AllegianceAbilities\ArtefactOfPower.cs" />
     <Compile Include="AllegianceAbilities\BattleTrait.cs" />
     <Compile Include="AllegianceAbilities\CommandTrait.cs" />
-    <Compile Include="IAllegianceAbility.cs" />
-    <Compile Include="AllegianceAbilityType.cs" />
+    <Compile Include="AllegianceAbilities\IAllegianceAbility.cs" />
+    <Compile Include="AllegianceAbilities\AllegianceAbilityType.cs" />
+    <Compile Include="Converters\UnitTypeJsonConverter.cs" />
     <Compile Include="Faction.cs" />
     <Compile Include="Factions\StormCastEternals.cs" />
     <Compile Include="Factories\StormcastEternalsFactory.cs" />
     <Compile Include="GrandAllegiance.cs" />
     <Compile Include="AllegianceAbilities\MountTrait.cs" />
     <Compile Include="AllegianceAbilities\Prayer.cs" />
+    <Compile Include="Models\UnitType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="AllegianceAbilities\SpellLore.cs" />
     <Compile Include="AllegianceAbilities\Stormhost.cs" />
+    <Compile Include="Models\Warscroll.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PeNArmyScketcher.Infrastructure\PeNArmyScketcher.Infrastructure.csproj">
@@ -74,7 +78,9 @@
     <None Include="resources\AllegianceAbilities\command-traits-blades-of-khorne-v2-2019.json" />
     <None Include="resources\AllegianceAbilities\command-traits-stormcast-v1-2018.json" />
     <None Include="resources\AllegianceAbilities\mount-traits-v1-2018.json" />
-    <None Include="resources\AllegianceAbilities\stormcast-warscrolls-settings-20190517125430.json" />
+    <None Include="resources\warscrolls\stormcast-warscrolls-settings-20190517125430.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="resources\AllegianceAbilities\stormhosts-v1-2018.json" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

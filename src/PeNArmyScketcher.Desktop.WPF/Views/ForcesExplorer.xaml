@@ -6,7 +6,25 @@
              xmlns:local="clr-namespace:PeNArmyScketcher.Desktop.WPF.Views"
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
+    <UserControl.Resources>
+        <DataTemplate x:Key="level3">
+            <Grid>
+                <TextBlock Text="{Binding Path=Name}"/>
+            </Grid>
+        </DataTemplate>
+        <HierarchicalDataTemplate x:Key="level2"
+                                  ItemsSource="{Binding Warscrolls}"
+                                  ItemTemplate="{StaticResource level3}">
+            <TextBlock Text="{Binding Path=Role}"/>
+        </HierarchicalDataTemplate>
+        <HierarchicalDataTemplate x:Key="level1"
+                                  ItemsSource="{Binding Warscrolls}"
+                                  ItemTemplate="{StaticResource level2}">
+            <TextBlock Text="{Binding Path=Name}"/>
+        </HierarchicalDataTemplate>
+    </UserControl.Resources>
     <Grid>
-        <TextBlock Text="{Binding Title}"/>
+        <TreeView ItemTemplate="{StaticResource level1}"
+                  ItemsSource="{Binding Factions}"/>
     </Grid>
 </UserControl>

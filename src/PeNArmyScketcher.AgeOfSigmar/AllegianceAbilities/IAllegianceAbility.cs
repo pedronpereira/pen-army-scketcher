@@ -1,4 +1,4 @@
-﻿namespace PeNArmyScketcher.AgeOfSigmar
+﻿namespace PeNArmyScketcher.AgeOfSigmar.AllegianceAbilities
 {
     public interface IAllegianceAbility
     {

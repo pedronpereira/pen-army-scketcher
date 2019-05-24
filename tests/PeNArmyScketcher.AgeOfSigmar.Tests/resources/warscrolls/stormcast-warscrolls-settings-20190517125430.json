@@ -1,0 +1,402 @@
+﻿[
+  {
+    "Name": "Celestar Ballista",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Artillery",
+    "Notes": "Artillery"
+  },
+  {
+    "Name": "Liberators",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 30,
+    "Points": 0,
+    "Role": "Battleline",
+    "Notes": "Battleline"
+  },
+  {
+    "Name": "Astreia Solbright",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 220,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Aventis Firestrike, Magister of Hammerhal",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 360,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Celestant-Prime, Hammer of Sigmar",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 340,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Gavriel Sureheart",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Knight-Azyros",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Heraldor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Incantor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 140,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Questor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Venator",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 120,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Vexillor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 120,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Knight-Zephyros",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Aquilor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 200,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Arcanum",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 180,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Arcanum on Tauralon",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 340,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Arcanum on Celestial Dracoline",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 240,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Arcanum on Gryph-charger",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 240,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Castellant",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Celestant",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Celestant on Dracoth",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 220,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Exorcist",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 140,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Ordinator",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 140,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Relictor",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 100,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Lord-Veritant",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 120,
+    "Role": "Leader",
+    "Notes": "Leader"
+  },
+  {
+    "Name": "Neave Blacktalon",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 120,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Vandus Hammerhand",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 280,
+    "Role": "Leader",
+    "Notes": "Leader Unique"
+  },
+  {
+    "Name": "Drakesworn Templar",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 460,
+    "Role": "Leader",
+    "Notes": "Leader, Behemoth"
+  },
+  {
+    "Name": "Lord-Celestant on Stardrake",
+    "UnitSizeMin": 1,
+    "UnitSizeMax": 1,
+    "Points": 560,
+    "Role": "Leader",
+    "Notes": "Leader, Behemoth"
+  },
+  {
+    "Name": "Aetherwings",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 50,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Castigators",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 18,
+    "Points": 80,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Concussors",
+    "UnitSizeMin": 2,
+    "UnitSizeMax": 12,
+    "Points": 260,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Decimators",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 200,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Desolators",
+    "UnitSizeMin": 2,
+    "UnitSizeMax": 12,
+    "Points": 220,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Evocators",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 200,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Evocators on Dracolines",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 300,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "The Farstriders",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 3,
+    "Points": 100,
+    "Role": "Unique",
+    "Notes": "Unique"
+  },
+  {
+    "Name": "Fulminators",
+    "UnitSizeMin": 2,
+    "UnitSizeMax": 12,
+    "Points": 240,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Gryph-hounds",
+    "UnitSizeMin": 6,
+    "UnitSizeMax": 18,
+    "Points": 140,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Judicators",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 160,
+    "Role": "Battleline",
+    "Notes": "Battleline in Stormcast Eternal army"
+  },
+  {
+    "Name": "Prosecutors",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 100,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Protectors",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 200,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Retributors",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 220,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Sequitors",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 20,
+    "Points": 0,
+    "Role": "Battleline",
+    "Notes": "Battleline in Stormcast Eternal army if general is a LORD-ARCANUM"
+  },
+  {
+    "Name": "Steelheart’s Champions",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 3,
+    "Points": 100,
+    "Role": "Unique",
+    "Notes": "Unique"
+  },
+  {
+    "Name": "Tempestors",
+    "UnitSizeMin": 2,
+    "UnitSizeMax": 12,
+    "Points": 220,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Vanguard-Hunters",
+    "UnitSizeMin": 5,
+    "UnitSizeMax": 15,
+    "Points": 120,
+    "Role": "Battleline",
+    "Notes": "Battleline in Stormcast Eternal army if general is a Lord-Aquilor"
+  },
+  {
+    "Name": "Vanguard-Palladors",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 200,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Vanguard-Raptors with Hurricane Crossbows",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 140,
+    "Role": null,
+    "Notes": null
+  },
+  {
+    "Name": "Vanguard-Raptors with Longstrike Crossbows",
+    "UnitSizeMin": 3,
+    "UnitSizeMax": 12,
+    "Points": 180,
+    "Role": null,
+    "Notes": null
+  }
+]
